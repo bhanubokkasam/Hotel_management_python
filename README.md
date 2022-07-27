@@ -20,4 +20,4 @@ This has almost same functionality as booking.
 For exiting the code.
 
 - click here for code: https://github.com/bhanubokkasam/Hotel_management_python
-- click here for more projects : https://github.com/bhanubokkasam
+- click here for more projects : https://github.com/bhanubokkasam?tab=repositories
