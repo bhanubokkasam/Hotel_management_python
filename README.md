@@ -10,7 +10,7 @@ If you click 2 then you will go into enquiry and then you will get these options
 1 for search with customer name 
 2 for search with room number 
 3 for room availability 
-4 for exit
+4 for exit.
 you can use them to search customer name and room num and rooms avaliable.
 ### 3.ADD
 This has almost same functionality as booking.
